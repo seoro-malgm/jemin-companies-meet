@@ -11,6 +11,7 @@ export default defineConfig(({ mode }) => {
       port: 3000,
       hot: true,
     },
+    base: "/jemin-companies-meet/",
     resolve: {
       alias: {
         "@": path.resolve(__dirname, "./src"),
