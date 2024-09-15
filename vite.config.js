@@ -23,5 +23,8 @@ export default defineConfig(({ mode }) => {
     watchOptions: {
       poll: true,
     },
+    build: {
+      outDir: "dist",
+    },
   };
 });
