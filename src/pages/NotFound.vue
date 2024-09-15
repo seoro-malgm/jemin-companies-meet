@@ -27,7 +27,7 @@ export default {
 };
 </script>
 
-<style lang="scss" scoped>
+<style scoped>
 .logo {
   width: 300px;
   max-width: 70vw;
