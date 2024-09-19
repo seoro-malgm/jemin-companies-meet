@@ -85,10 +85,10 @@ const getURL = inject("getImageURL");
 
 #global-footer .center {
   text-align: center;
-  font-size: 14px;
+  /* font-size: 0.8rem; */
   color: #333;
   @media screen and (max-width: 768px) {
-    font-size: 1rem;
+    /* font-size: 1rem; */
     margin: 0.5rem 0;
   }
 }
@@ -96,7 +96,7 @@ const getURL = inject("getImageURL");
 #global-footer .center h6 {
   display: inline-block;
   font-weight: 500;
-  font-size: 1.5rem;
+  font-size: 1.2rem;
   @media screen and (max-width: 768px) {
     font-size: 1rem;
   }

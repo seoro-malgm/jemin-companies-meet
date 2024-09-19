@@ -28,21 +28,21 @@ const emit = defineEmits();
   }
 }
 #global-header h1 {
-  font-size: 2rem;
+  font-size: 1.5rem;
   font-weight: 700;
   max-width: 60vw;
   @media screen and (max-width: 768px) {
     max-width: 100%;
-    font-size: 1.5rem;
+    font-size: 1rem;
   }
 }
 #global-header h4 {
-  font-size: 2rem;
+  font-size: 1.4rem;
   font-weight: 500;
   max-width: 40vw;
   @media screen and (max-width: 768px) {
     max-width: 100%;
-    font-size: 1rem;
+    font-size: 0.7rem;
   }
 }
 </style>

@@ -28,9 +28,9 @@ import GlobalFooter from "@/components/globalfooter.vue";
 #main {
   width: 100%;
   flex-grow: 1;
-  max-height: calc(100vh - 12vh);
+  max-height: calc(100vh - 10vh);
   @media screen and (max-width: 768px) {
-    max-height: calc(100vh - 30vh);
+    max-height: calc(100vh - 20vh);
   }
   border-top: 1px solid #e0e0e0;
   border-bottom: 1px solid #e0e0e0;
