@@ -17,7 +17,7 @@
       </ul>
     </div>
     <div class="center">
-      <h6>2024.09.26 (목) 공주시청년센터 1층 라운지</h6>
+      <h6>2024.09.26.(목) 공주시청년센터 강남청년일루와유</h6>
     </div>
     <div class="right">
       <ul class="list">
